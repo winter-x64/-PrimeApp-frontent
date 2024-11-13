@@ -1,1 +1,1 @@
-# -PrimeApp-frontent
+# PrimeApp-frontend
